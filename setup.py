@@ -6,14 +6,13 @@ with open("README.md", 'r') as f:
 	long_description = f.read()
 
 
-project_name = "sse-py"
+project_name = "sse_py"
 git_url = "https://github.com/lwashington3/SSE.py"
-github_token = getenv("GITHUB_TOKEN")
 
 
 setup(
-	name="sse-py",
-	version="1.0.0",
+	name="SSE.py",
+	version="1.0.1",
 	author="Len Washington III",
 	description="Python Server Side Events Library",
 	include_package_data=True,
