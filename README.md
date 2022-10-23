@@ -1,0 +1,1 @@
+A basic library working out how to do HTML Server Side Events (SSE) in pure Python, both a client and server implementation.
